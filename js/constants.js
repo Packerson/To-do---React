@@ -1,2 +1,2 @@
-export const URL = "https://todo-api.coderslab.pl/api/tasks"
-export const KEY = "2ca81067-2bfb-4564-9bec-9ef8a3bd5668"
+export const URL = "https://todo-api.coderslab.pl/api/tasks/"
+export const KEY = "1148ea3d-baf4-4fd7-bf30-5ca7d3ceca18"
